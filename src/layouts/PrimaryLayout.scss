@@ -1,0 +1,11 @@
+.main {
+	display: flex;
+	&__nav {
+		background-color: $bg-light-gray;
+		width: 20vw;
+	}
+	&__content {
+		background-color: tomato;
+		width: 80vw;
+	}
+}
