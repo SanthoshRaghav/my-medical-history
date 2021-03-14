@@ -5,6 +5,7 @@
 	"htmlWhitespaceSensitivity": "strict",
 	"jsxBracketSameLine": false,
 	"jsxSingleQuote": true,
+	"endOfLine": "auto",
 	"printWidth": 195,
 	"singleQuote": true,
 	"tabWidth": 4,
